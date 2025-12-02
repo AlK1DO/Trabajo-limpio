@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import os
 
 # Carga las variables del archivo .env
-load_dotenv()
+load_dotenv("example.env")
 
 # Obtiene el nombre del contacto y el mensaje desde el .env
 CONTACT_NAME = os.getenv("CONTACTO")
