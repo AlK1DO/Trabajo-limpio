@@ -1,5 +1,5 @@
 [project]
-name = "my-proyect"
+name = "whatsapp_bot"
 version = "0.1.2"
 description = "Default template for PDM package"
 authors = [
